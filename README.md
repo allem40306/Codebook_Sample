@@ -1,6 +1,6 @@
 Codebook 使用教學
 ===
-* github專案: [NCTU-PCCA/NCTU_Tmprry](https://github.com/allem40306/Codebook_Sample)
+<!-- * github專案: [NCTU-PCCA/NCTU_Tmprry](https://github.com/allem40306/Codebook_Sample) -->
 
 * 安裝 [Miktex](https://miktex.org/download)
 * 打開 Miktex Console->Packages
